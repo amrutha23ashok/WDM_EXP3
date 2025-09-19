@@ -38,11 +38,6 @@ for each wear category.</p>
 </p>
 
 ### Program:
-```
-NAME : YAMUNAASRI T S
-REG NO : 212222240117
-```
-```
 from collections import defaultdict
 from itertools import combinations
 # Function to generate candidate k-item sequences
